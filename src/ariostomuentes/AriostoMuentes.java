@@ -19,6 +19,7 @@ public class AriostoMuentes {
         System.out.println("Hola Mundo");
         int valor=0;
         int valor2=0;
+        int resultado=0;
     }
     
 }
