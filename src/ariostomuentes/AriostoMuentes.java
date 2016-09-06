@@ -20,6 +20,7 @@ public class AriostoMuentes {
         int valor=0;
         int valor2=0;
         int resultado=0;
+        resultado=valor+valor2;
     }
     
 }
