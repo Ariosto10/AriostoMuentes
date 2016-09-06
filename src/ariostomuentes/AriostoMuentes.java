@@ -21,6 +21,7 @@ public class AriostoMuentes {
         int valor2=0;
         int resultado=0;
         resultado=valor+valor2;
+        System.out.println("El resultado es: "+resultado);
     }
     
 }
