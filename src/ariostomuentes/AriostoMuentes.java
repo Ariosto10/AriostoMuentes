@@ -17,6 +17,8 @@ public class AriostoMuentes {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo");
+        int valor=0;
+        int valor2=0;
     }
     
 }
